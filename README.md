@@ -6,5 +6,5 @@ This is a vertical slice of a game, Incomplete in terms of being a game
 but can be adapted into your own given credit where it is due. Read the License 
 documentation for more information.
 
-To Run the game navigate to the Debug folder and run "Completed.exe"
+To Run the game, navigate to the Debug folder and run "Completed.exe"
 Again, remembering software is provided "AS-IS".
