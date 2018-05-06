@@ -8,3 +8,6 @@ documentation for more information.
 
 To Run the game, navigate to the Debug folder and run "Completed.exe"
 Again, remembering software is provided "AS-IS".
+
+There are a couple bugs given it is only a vertical slice and was developed in approximately 2hrs.
+
