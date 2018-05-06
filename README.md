@@ -11,3 +11,4 @@ Again, remembering software is provided "AS-IS".
 
 There are a couple bugs given it is only a vertical slice and was developed in approximately 2hrs.
 
+All files are included in "Project.rar" due to Github file upload restrictions
